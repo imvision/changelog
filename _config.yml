@@ -16,7 +16,7 @@ website: http://cidekick.scalerr.org # (required)
 # the base hostname & protocol for your site, 
 # e.g. https://updates.changelog.site
 # Note Don't put trailing slash https://updates.changelog.site/
-url: "https//cidekick.scalerr.org"  # (required)
+url: "https//updates.scalerr.org"  # (required)
 
 baseurl: '' # optional
 
