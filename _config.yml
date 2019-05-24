@@ -1,8 +1,8 @@
 # Title of your homepage
-title: ChangeLog of Brandname #(required)
+title: ChangeLog of Cidekick #(required)
 
 # Website Description for search engines (optional)
-description: "Keep yourself up to date with our new product features"
+description: "Cidekick development updates"
 
 # replace this word in navigation bar. Ex: Productnews, ChangeLog, Updates
 heading: Updates # (optional)
@@ -11,24 +11,24 @@ heading: Updates # (optional)
 logo: /assets/images/logo.png #(required)
 
 # Your Product's Website
-website: https://changelog.site # (required)
+website: http://cidekick.scalerr.org # (required)
 
 # the base hostname & protocol for your site, 
 # e.g. https://updates.changelog.site
 # Note Don't put trailing slash https://updates.changelog.site/
-url: "https://updates.changelog.site"  # (required)
+url: "https//cidekick.scalerr.org"  # (required)
 
 baseurl: '' # optional
 
 
 # Github username/repo where your code is hosted.
-github: changelogsite/changelog # (required)
+github: imvision/changelog # (required)
 
 # remove this line if don't want to show Github Star Badge
-star-badge: true  #(optional)
+# star-badge: true  #(optional)
 
 # remove this line if don't want to show Github Watch Badge
-watch-badge: true #(optional)
+# watch-badge: true #(optional)
 
 # Show rss feed icon in menubar. To disable this comment below line by adding # as first character.
 rss-feed-icon: true #(optional)
@@ -43,7 +43,7 @@ analytics:  #(recommended)
 fb-comment: true
 
 # Allow search engines to index your changelog website
-allow-searchengine: true #optional
+allow-searchengine: false #optional
 
 
 # Do not change anything below this if you don't know Jekyll
